@@ -14,7 +14,7 @@ This repository provides a Python implementation for interacting with multiple L
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/llm-batch-response-tool.git
+   git clone https://github.com/priyansh1204/AI-Scientist.git
    cd llm-batch-response-tool
    ```
 
